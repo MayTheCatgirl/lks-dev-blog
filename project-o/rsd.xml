@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+<service>
+<engineName>Movable Type Publishing Platform 4.01</engineName>
+<engineLink>http://www.sixapart.com/movabletype/</engineLink>
+<homePageLink>http://prg.mmv.co.jp/blog/project-o/</homePageLink>
+<apis>
+<api name="MetaWeblog" preferred="true" apiLink="http://prg.mmv.co.jp/mt/mt-xmlrpc.cgi" blogID="2" />
+<api name="MovableType" preferred="false" apiLink="http://prg.mmv.co.jp/mt/mt-xmlrpc.cgi" blogID="2" />
+<api name="Blogger" preferred="false" apiLink="http://prg.mmv.co.jp/mt/mt-xmlrpc.cgi" blogID="2" />
+<api name="Atom" preferred="false" apiLink="http://prg.mmv.co.jp/mt/mt-atom.cgi/weblog" blogID="2" />
+</apis>
+</service>
+</rsd>

@@ -1,0 +1,456 @@
+/* Base Theme ============================================================= */
+/* Reset ------------------------------------------------------------------ */
+/* reset.css - resets default browser styling http://tantek.com/log/2004/09.html#d06t2354
+http://www.vox.com/.shared/css/base.css by beausmith.com
+http://developer.yahoo.com/yui/reset/*/
+
+a:link,:visited {
+text-decoration:none;
+}
+
+html,body,div,ul,ol,li,dl,dt,dd,form,fieldset,input,textarea,h1,h2,h3,h4,h5,h6,pre,code,p,blockquote,hr,th,td {
+margin:0;
+padding:0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+font-size:100%;
+font-weight:normal;
+}
+
+table {
+border-spacing:0;
+}
+
+fieldset,img,abbr,acronym {
+border:0;
+}
+
+/* strict reset by uncommenting lines below */
+address,caption,cite,code,dfn,em,strong,b,u,s,i,th,var { 
+/* font-style:normal; */ 
+/* font-weight:normal; */
+}
+ol,ul {
+list-style:none;
+}
+
+caption,th {
+text-align:left;
+}
+
+q:before,q:after {
+content:'';
+}
+
+a {
+text-decoration:none;
+outline:none;
+}
+
+a:hover {
+text-decoration:underlinr;
+outline:none;}
+
+hr {
+border:0;
+height:1px;
+background-color:#000;
+color:#000;
+}
+
+a img,:link img,:visited img {
+border:none;
+}
+
+address {
+font-style:normal;
+}
+
+/* Layout ----------------------------------------------------------------- */
+body {
+text-align: center;
+}
+
+#content{
+text-align: left;
+}
+
+
+#container-inner {
+width: 894px;
+min-height: 100%;
+margin: 0 auto;
+}
+
+#content, #alpha, #beta, #gamma, #footer {
+position: relative;
+margin-top: 0px;
+margin-left:auto;
+margin-right:auto;
+}
+
+#header{
+margin-top: 0px;
+margin-left:auto;
+margin-right:auto;
+}
+
+
+#alpha, #beta, #gamma {
+display: inline;
+float: left;
+padding-bottom:10px;
+}
+
+#content-inner, #footer-inner,#alpha-inner, #beta-inner, #gamma-inner {
+position: static;
+}
+
+#alpha-inner{
+display: inline;
+}
+
+#content-inner, #footer-inner {
+padding-bottom: 20px;
+}
+
+#footer-inner,#alpha-inner, #beta-inner, #gamma-inner {
+overflow: hidden;
+}
+
+/* Wide-Thin-Thin */
+.layout-wtt #alpha {
+width: 478px;
+}
+
+.layout-wtt #beta {
+left: 202px;
+width: 202px;
+}
+
+.layout-wtt #gamma {
+right: 205px;
+width: 205px;
+}
+
+/* Thin-Wide-Thin */
+.layout-twt #alpha {
+left: 202px;
+width: 478px;
+}
+
+.layout-twt #beta {
+left: -478px;
+width: 202px;
+}
+
+.layout-twt #gamma {
+width: 205px;
+}
+
+/* Wide-Thin */
+.layout-wt #alpha {
+width: 680px;
+}
+
+.layout-wt #beta {
+width: 202px;
+}
+
+/* Thin-Wide */
+.layout-tw #alpha {
+left: 202px;
+width: 680px;
+}
+
+.layout-tw #beta {
+left: -680px;
+width: 202px;
+}
+
+/* Utilities */
+.pkg:after, #content-inner:after {
+content: " ";
+display: block;
+visibility: hidden;
+clear: both;
+height: 0.1px;
+font-size: 0.1em;
+line-height: 0;
+}
+
+.pkg, #content-inner {
+display: inline-block;
+}
+
+/* no ie mac \*/* html .pkg, * html #content-inner {
+height: 1%;
+}
+
+.pkg, #content-inner {
+display: block;
+}
+
+/* */
+
+/* Content ---------------------------------------------------------------- */
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, fieldset, ul, ol, dl {
+margin-bottom: 0;
+}
+
+blockquote, ol, ul {
+margin-left: 30px;
+background-repeat: repeat-y;
+}
+
+ol {
+list-style: none;
+}
+
+ul {
+list-style: none;
+}
+
+.item {
+list-style: none;
+}
+
+/* Header */
+#header-name {
+margin-bottom: .25em;
+}
+
+
+/* Assets */
+.asset-body,.asset-more,.asset-more-link,.asset-excerpt,.comment-content,.comment-footer,.comments-open-content,.comments-open-footer,.comments-closed,.trackbacks-info,.trackback-content,.trackback-footer,.archive-content {
+clear: both;
+}
+
+.asset,.comments,.trackbacks,.archive {
+overflow: hidden;
+width: 100%;
+}
+
+.asset,.asset-content,.comments,.trackbacks,.archive {
+position: static;
+clear: both;
+}
+
+.comments,.comments-content,.archive,.search-form {
+margin-bottom: 0;
+}
+
+.comments-header,.comment-header,.comment-content,.comment-footer,.comments-open-header,.comments-open-content,#comments-open-footer,.comments-closed,#comment-form-external-auth,.comments-open-moderated,#comment-form-name,#comment-form-email,#comment-form-url,#comment-form-remember-me,#comments-open-text,.trackbacks-header,.trackbacks-info,.trackback-content,.archive-content,.search-form-header,.search-results-header {
+margin-bottom: 0;
+}
+
+.entry-categories,.entry-tags {
+margin-bottom: .5em;
+}
+
+.asset-name {
+text-align: left;
+padding-top: 70px;
+padding-left: 75px;
+width:365px;
+}
+
+.asset-footer,.asset-meta {
+font-size: 11px;
+}
+
+.asset-meta {
+padding-top: 2px;
+padding-bottom: .3em;
+font-weight: normal;
+}
+
+.asset-footer {
+padding-top: .5em;
+}
+
+.content-nav {
+text-align: center;
+}
+
+.entry-tags-header,.entry-categories-header {
+margin-bottom: 0;
+margin-right: .25em;
+display: inline;
+font-weight: bold;
+}
+
+.entry-tags-list,.entry-categories-list {
+display: inline;
+list-style: none;
+margin-left: 0;
+padding-left: 0;
+}
+
+.entry-tags-list .entry-tag,.entry-categories-list .entry-category {
+display: inline;
+}
+
+.mt-image-left {
+display: block;
+margin: 10px 20px 10px 10px;
+text-align: left;
+}
+
+.mt-image-center {
+background-color:#000000;
+display: block;
+margin: 10px 20px 10px 0px;
+text-align: center;
+}
+
+.mt-image-right {
+display: block;
+margin: 0 0 20px 20px;
+text-align: right;
+}
+
+/* Feedback */
+.comments-open label {
+display: block;
+}
+
+#comment-author, #comment-email, #comment-url, #comment-text {
+width: 80%;
+}
+
+#comment-bake-cookie {
+margin-left: 0;
+vertical-align: middle;
+}
+
+#comment-submit {
+font-weight: bold;
+}
+
+/* Widgets */
+.widget {
+position: relative;
+overflow: hidden;
+width: 100%;
+}
+
+.widget-content {
+position: relative;
+margin: 0px 7px 0px 20px;
+text-align: left;
+}
+
+.widget-list,.archive-list {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+.widget-list .widget-list {
+margin-left: 15px;
+}
+
+.widget-list-item {
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+.widget-cloud .widget-list {
+margin-right: 0;
+margin-left: 0;
+}
+
+.widget-cloud .widget-list-item {
+display: inline;
+margin: 0px;
+padding-left: 0;
+line-height: 1.2;
+background: none;
+}
+
+#footer .widget-content {
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.widget-assets .widget-content .widget-list {
+overflow: auto;
+margin-right: 0;
+}
+
+.item {
+display: inline;
+float: left;
+margin: 0pt 5px 8px;
+overflow: hidden;
+text-align: center;
+vertical-align: middle;
+width: 70px;
+}
+
+.widget-search .search-options,.widget-syndicate .blog-feeds {
+list-style: none;
+margin: 5px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
