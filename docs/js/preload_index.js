@@ -17,7 +17,7 @@ function changeImages() {
 var preloadFlag = false;
 function preloadImages() {
 	if (document.images) {
-		header_link_over = newImage("http://prg.mmv.co.jp/blog/project-o/img/template/header08_over.jpg");
+		header_link_over = newImage("../../../img/template/header08_over.jpg");
 		preloadFlag = true;
 	}
 }

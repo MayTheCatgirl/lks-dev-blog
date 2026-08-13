@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>王様物語／PROJECT O　クリエイターズBLOG</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/" />
-    <link rel="self" type="application/atom+xml" href="http://prg.mmv.co.jp/blog/project-o/atom.xml" />
+    <link rel="alternate" type="text/html" href="../../../" />
+    <link rel="self" type="application/atom+xml" href="../../../atom.xml" />
     <id>tag:prg.mmv.co.jp,2008-01-15:/blog/project-o//2</id>
     <updated>2009-12-11T15:46:21Z</updated>
     <subtitle>王様物語／PROJECT O 　開発日誌</subtitle>
@@ -10,7 +10,7 @@
 
 <entry>
     <title>王様物語スタッフ最後の（！？）大宴会の巻き</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/12/post-150.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/12/post-150.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.472</id>
 
     <published>2009-12-11T15:42:41Z</published>
@@ -25,7 +25,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさん、おひさしぶりです。きむＰです。<br />
 王様物語は楽しんでいただいているでしょうか！？</p>
 
@@ -61,7 +61,7 @@
 汗だくの七色の宝石みたいな時間だった。<br />
 そんな時間を思い出させてくれるとても有意義なセミナーでした。</p>
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="humanacademy.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/humanacademy.jpg" width="300" height="424" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="humanacademy.jpg" src="../../../photo/humanacademy.jpg" width="300" height="424" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
 
 <p>しかも、セミナー終了後にも嬉しいハプニングが・・・！<br />
 気がつくと、講義の後の打ち上げの会には、<br />
@@ -75,7 +75,7 @@
 じゃんっ！！<br />
 これが王様物語スタッフによるカラオケ大会の集合写真です。</p>
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="nondakure.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/nondakure.jpg" width="380" height="307" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="nondakure.jpg" src="../../../photo/nondakure.jpg" width="380" height="307" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
 
 <p>みんなっ！福岡のみんな！<br />
 王様物語完成して本当によかったな！</p>
@@ -102,7 +102,7 @@
 
 <entry>
     <title>「王様物語公式ガイドブック」発売中</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/10/post-149.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/10/post-149.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.470</id>
 
     <published>2009-10-14T05:06:29Z</published>
@@ -117,12 +117,12 @@
         <category term="お知らせ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>こんにちは、ＰＲ大臣です。</p>
 
 <p>「王様物語公式ガイドブック」発売中～！</p>
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="cover.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/cover.jpg" width="200" height="285" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="cover.jpg" src="../../../photo/cover.jpg" width="200" height="285" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
 
 <p>王様物語　公式ガイドブック<br />
 エンターブレイン刊<br />
@@ -143,7 +143,7 @@
 
 <entry>
     <title>「さくホビ15周年　ＡＮＮＩＶＥＲＳＡＲＹ」に参加しますよ～！</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/10/15.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/10/15.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.469</id>
 
     <published>2009-10-01T10:48:05Z</published>
@@ -158,7 +158,7 @@
         <category term="お知らせ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>こんにちは、ＰＲ大臣です。</p>
 
 <p>ステキなイベントの情報をＧＥＴしたので、下記に告知いたします！</p>
@@ -180,7 +180,7 @@
 
 <entry>
     <title>公式ガイドブックが出ますよ～</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-148.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-148.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.468</id>
 
     <published>2009-09-29T09:57:35Z</published>
@@ -195,13 +195,13 @@
         <category term="お知らせ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>こんにちは、ＰＲ大臣です。</p>
 
 <p>「王様物語公式ガイドブック」が、10月10日に発売になりますので<br />
 お知らせしますよ～！</p>
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="cover.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/cover.jpg" width="200" height="285" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="cover.jpg" src="../../../photo/cover.jpg" width="200" height="285" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
 
 <p>王様物語　公式ガイドブック<br />
 エンターブレイン刊<br />
@@ -216,7 +216,7 @@
 
 <entry>
     <title>“絵画コンテスト”採用者をドドドーンと発表！</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-147.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-147.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.467</id>
 
     <published>2009-09-14T04:11:32Z</published>
@@ -231,7 +231,7 @@
         <category term="お知らせ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>ＰＲ大臣です。</p>
 
 <p>本日のブログは<br />
@@ -358,7 +358,7 @@
 
 <entry>
     <title>伊集院さん、ありがとうございます！</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-146.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-146.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.466</id>
 
     <published>2009-09-11T11:28:04Z</published>
@@ -373,7 +373,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>きむPです。</p>
 
 <p>ついについに、伊集院さんの王様ＴＶ、最終回の配信が<br />
@@ -425,7 +425,7 @@
 
 <entry>
     <title>予告です</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-145.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-145.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.465</id>
 
     <published>2009-09-11T08:03:12Z</published>
@@ -440,7 +440,7 @@
         <category term="お知らせ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>お久しぶりのＰＲ大臣です。</p>
 
 <p>来週月曜、このブログにて、<br />
@@ -457,7 +457,7 @@
 
 <entry>
     <title>ココロの奥の闇に灯を</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-144.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-144.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.463</id>
 
     <published>2009-09-04T10:05:13Z</published>
@@ -470,7 +470,7 @@
     </author>
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>さて、発売から2日目。ワーダです。<br />
 ゴキゲンいかがでしょうか！</p>
 
@@ -570,7 +570,7 @@
 
 <entry>
     <title>ついに、発売日！です</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-143.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-143.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.462</id>
 
     <published>2009-09-03T21:10:53Z</published>
@@ -585,7 +585,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさん、おひさしぶりです。きむPです。<br />
 ついに、王様物語の発売日を迎えました。</p>
 
@@ -595,7 +595,7 @@
 一般公募で選ばれた王様君もいい感じでした。<br />
 彼がウクレレで歌った「姫の歌」も心温まる良い歌声でした。</p>
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="sokuishiki.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/sokuishiki.jpg" width="299" height="253" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="sokuishiki.jpg" src="../../../photo/sokuishiki.jpg" width="299" height="253" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
              ※これが選ばれた王様です！
 
 <p>そして、イベントに来てくれた皆様<br />
@@ -639,7 +639,7 @@
 
 <entry>
     <title>発売にあたって</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-142.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-142.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.461</id>
 
     <published>2009-09-02T12:08:38Z</published>
@@ -654,7 +654,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>おはようございます、倉島です。<br />
 現在スイスの田舎の村からお手紙したためております。<br />
 あいかわらず海外在住で申し訳ありません。</p>
@@ -694,7 +694,7 @@
 <p>そして私はスイッツァランドの熱帯植物園で開催中のグループ展にて<br />
 地道に欧州版「王様物語」布教活動を続けたいと思います。</p>
 
-<span class="mt-enclosure mt-enclosure-image"><img alt="littlekingswiss.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/littlekingswiss.jpg" width="384" height="288" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
+<span class="mt-enclosure mt-enclosure-image"><img alt="littlekingswiss.jpg" src="../../../photo/littlekingswiss.jpg" width="384" height="288" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
 
 <p>あ　でも<br />
 そろそろ帰国します。</p>
@@ -707,7 +707,7 @@
 
 <entry>
     <title>９月３日 木曜日！いよいよです！</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/09/post-141.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-141.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.460</id>
 
     <published>2009-09-01T03:33:05Z</published>
@@ -722,7 +722,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさまにこの場をかりまして、残暑お見舞い申し上げます。<br />
 キャラクターデザインの皆葉です。</p>
 
@@ -757,7 +757,7 @@
 
 <entry>
     <title>王様物語発売まで、カウント３！</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/08/post-140.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-140.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.459</id>
 
     <published>2009-08-31T11:17:28Z</published>
@@ -772,7 +772,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>おはこんばんちくわ。<br />
 リードプランナー兼シナリオ兼のんきな池田トムです。</p>
 
@@ -812,14 +812,14 @@
 今まで…ありがとうっ……王様物語…よろし…く……！</p>
 
 <p>　　　　　　　     　　　　　　　　　　　　　　　～FIN～<br />
-<span class="mt-enclosure mt-enclosure-image"><img alt="chi-nn.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/chi-nn.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span></p>]]>
+<span class="mt-enclosure mt-enclosure-image"><img alt="chi-nn.jpg" src="../../../photo/chi-nn.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span></p>]]>
         
     </content>
 </entry>
 
 <entry>
     <title>王国でワラワラするＲＰＧだよ～ん</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/08/post-139.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-139.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.457</id>
 
     <published>2009-08-28T13:10:43Z</published>
@@ -834,7 +834,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>おはこんばんちわわ。<br />
 リードプランナー兼シナリオ兼したっぱの池田トムです。</p>
 
@@ -863,7 +863,7 @@
 それを、なんでも大臣リアムが得意げに追い払う。</p>
 
 <p>　　　　※チューチュー！（みてんじゃねぇ！）<br />
-<span class="mt-enclosure mt-enclosure-image"><img alt="rat.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/rat.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
+<span class="mt-enclosure mt-enclosure-image"><img alt="rat.jpg" src="../../../photo/rat.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
 ゲームの主たるルーチンワークからは幾らか外れた<br />
 これらの観察的な遊びですが、各キャラクターの<br />
 個性表現の為、実に大事な一角を担ってくれています。</p>
@@ -891,7 +891,7 @@
 
 <p>王国をみまわる途中、ゴミ箱をみつけたらトツゲキさせてみましょう。<br />
 もうそれは豪快にゴミをあさってくれま～す。<br />
-<span class="mt-enclosure mt-enclosure-image"><img alt="gomi.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/gomi.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span></p>
+<span class="mt-enclosure mt-enclosure-image"><img alt="gomi.jpg" src="../../../photo/gomi.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span></p>
 
 <p>しけもく、ガムの銀紙、おれた傘、破れたパンツ等など、<br />
 国民の生活感あふれるゴミが見つかるでしょうし、<br />
@@ -916,7 +916,7 @@
 
 <entry>
     <title>プラチナ殿堂記念★夢のコラボ編</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/08/post-138.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-138.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.456</id>
 
     <published>2009-08-27T08:11:21Z</published>
@@ -931,7 +931,7 @@
         <category term="お知らせ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>こんにちは、ＰＲ大臣です。<br />
 プランナー兼相棒の、池田トムです。<br />
 本日はこの二人の夢のような（現実的ではない）コラボにてお届けします。</p>
@@ -946,7 +946,7 @@
 取り出すＰＲ大臣。</p>
 
 <p>　　　　　　　　　　　　　　　※ま…まばゆい高評価っ！<br />
-<span class="mt-enclosure mt-enclosure-image"><img alt="crossreview.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/crossreview.jpg" width="150" height="217" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
+<span class="mt-enclosure mt-enclosure-image"><img alt="crossreview.jpg" src="../../../photo/crossreview.jpg" width="150" height="217" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
 大臣「新作ゲームクロスレビュー、『王様物語』プラチナ殿堂入り！<br />
 　　　いやっほー夢のようだなぁ～。」<br />
 突然アイスコーヒーをＰＲ大臣の顔にぶっかけるトム。<br />
@@ -977,7 +977,7 @@
 
 <entry>
     <title>国民に命を吹き込め！</title>
-    <link rel="alternate" type="text/html" href="http://prg.mmv.co.jp/blog/project-o/archives/2009/08/post-137.html" />
+    <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-137.html" />
     <id>tag:prg.mmv.co.jp,2009:/blog/project-o//2.454</id>
 
     <published>2009-08-26T10:33:54Z</published>
@@ -992,7 +992,7 @@
         <category term="スタッフブログ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="http://prg.mmv.co.jp/blog/project-o/">
+    <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさま、初めまして。<br />
 プログラム担当の田村佑樹と申します。</p>
 
@@ -1024,7 +1024,7 @@
 ぜひプレイして感触を確かめてくださいな～。</p>
 
 <p>　　　※ウララ　ウララ　ウラウラよ～♪ってな感じで狙いうちッ<br />
-<span class="mt-enclosure mt-enclosure-image"><img alt="targetrock.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/targetrock.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
+<span class="mt-enclosure mt-enclosure-image"><img alt="targetrock.jpg" src="../../../photo/targetrock.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
 そして、打ち出してからのNPCの挙動！<br />
 彼らには様々なジョブがあり、<br />
 それぞれに違うリアクションを見せてくれるでしょう。<br />
@@ -1033,15 +1033,15 @@ NPCたちを打ち出してみてください！</p>
 
 <p>　　　※浜辺に向かって「馬鹿ヤローー！！」<br />
 　　　　キモチはわかる…。わかるよ、タムさんッ！！(ﾄﾑ)<br />
-<span class="mt-enclosure mt-enclosure-image"><img alt="hamabe.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/hamabe.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
+<span class="mt-enclosure mt-enclosure-image"><img alt="hamabe.jpg" src="../../../photo/hamabe.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
 そしてそして、引き連れているNPCたち。<br />
 そのまま放置してみましょう………。<br />
 なにもしないでいることに退屈したのか、<br />
 隣のNPCと会話したり、体操したり、<br />
 ウトウト居眠りしたり。</p>
 
-<p>　　　<a href="http://www.mmv.co.jp/special/game/wii/project_o/special/sp_cam5.html" target="_blank">※「ねぇねぇ知ってる？王様ＴＶにすごいゲスト登場だってさ！」</a><br />
-<span class="mt-enclosure mt-enclosure-image"><img alt="kosokoso.jpg" src="http://prg.mmv.co.jp/blog/project-o/photo/kosokoso.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
+<p>　　　<a href="../../../special/sp_cam5.html" target="_blank">※「ねぇねぇ知ってる？王様ＴＶにすごいゲスト登場だってさ！」</a><br />
+<span class="mt-enclosure mt-enclosure-image"><img alt="kosokoso.jpg" src="../../../photo/kosokoso.jpg" width="355" height="200" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span><br />
 実はここ、そこまで細かい指定がなかったので、<br />
 私のアレンジでいっぱいです！<br />
 力いっぱい作らせていただきました♪</p>
