@@ -7,7 +7,7 @@
     <updated>2009-12-11T15:46:21Z</updated>
     <subtitle>王様物語／PROJECT O 　開発日誌</subtitle>
     <generator uri="http://www.sixapart.com/movabletype/">Movable Type Publishing Platform 4.01</generator>
-
+<!--
 <entry>
     <title>王様物語スタッフ最後の（！？）大宴会の巻き</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/12/post-150.html" />
@@ -28,6 +28,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさん、おひさしぶりです。きむＰです。<br />
 王様物語は楽しんでいただいているでしょうか！？</p>
+-->
 
 <p>冬の寒い中、Ｗｉｉでちょこちょこと<br />
 王様物語を遊んでくれているといいなぁ。<br />
@@ -100,6 +101,7 @@
     </content>
 </entry>
 
+<!--
 <entry>
     <title>「王様物語公式ガイドブック」発売中</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/10/post-149.html" />
@@ -117,10 +119,11 @@
         <category term="お知らせ" scheme="http://www.sixapart.com/ns/types#category" />
     
     
-    <content type="html" xml:lang="ja" xml:base="../../../">
-        <![CDATA[<p>こんにちは、ＰＲ大臣です。</p>
+    <content type="html" xml:lang="ja" xml:base="../../../" 
+        <![CDATA[<p>こんにちは、ＰＲ大臣です。</p> 
 
 <p>「王様物語公式ガイドブック」発売中～！</p>
+-->
 
 <span class="mt-enclosure mt-enclosure-image"><img alt="cover.jpg" src="../../../photo/cover.jpg" width="200" height="285" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
 
@@ -140,7 +143,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>「さくホビ15周年　ＡＮＮＩＶＥＲＳＡＲＹ」に参加しますよ～！</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/10/15.html" />
@@ -160,7 +163,7 @@
     
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>こんにちは、ＰＲ大臣です。</p>
-
+-->
 <p>ステキなイベントの情報をＧＥＴしたので、下記に告知いたします！</p>
 
 <p>「さくホビ15周年　ＡＮＮＩＶＥＲＳＡＲＹ」<br />
@@ -177,7 +180,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>公式ガイドブックが出ますよ～</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-148.html" />
@@ -200,6 +203,7 @@
 
 <p>「王様物語公式ガイドブック」が、10月10日に発売になりますので<br />
 お知らせしますよ～！</p>
+-->
 
 <span class="mt-enclosure mt-enclosure-image"><img alt="cover.jpg" src="../../../photo/cover.jpg" width="200" height="285" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;"/></span>
 
@@ -213,7 +217,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>“絵画コンテスト”採用者をドドドーンと発表！</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-147.html" />
@@ -234,6 +238,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>ＰＲ大臣です。</p>
 
+-->
 <p>本日のブログは<br />
 ～緊急企画！“絵画コンテスト”採用者をドドドーンと発表！～<br />
 をお送りいたします。</p>
@@ -355,7 +360,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>伊集院さん、ありがとうございます！</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-146.html" />
@@ -375,7 +380,7 @@
     
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>きむPです。</p>
-
+-->
 <p>ついについに、伊集院さんの王様ＴＶ、最終回の配信が<br />
 公式ＨＰにて、本日行われました。</p>
 
@@ -422,7 +427,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>予告です</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-145.html" />
@@ -442,7 +447,7 @@
     
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>お久しぶりのＰＲ大臣です。</p>
-
+-->
 <p>来週月曜、このブログにて、<br />
 “絵画コンテスト”採用者をドドドーンと発表予定です！</p>
 
@@ -454,7 +459,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>ココロの奥の闇に灯を</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-144.html" />
@@ -473,7 +478,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>さて、発売から2日目。ワーダです。<br />
 ゴキゲンいかがでしょうか！</p>
-
+-->
 <p>深い闇に包まれていた私のココロはここにいたり<br />
 何者かが点けてくれた灯火により、眩いばかりの<br />
 光を得るに至りました。おめでとう！お祭りだよ。</p>
@@ -567,7 +572,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>ついに、発売日！です</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-143.html" />
@@ -588,7 +593,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさん、おひさしぶりです。きむPです。<br />
 ついに、王様物語の発売日を迎えました。</p>
-
+-->
 <p>今日は発売日イベントの「王様即位式」なんかもあったりして<br />
 なんだか、感極まっております。<br />
 椿姫さん、すんごく、かわいかったです。<br />
@@ -636,7 +641,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>発売にあたって</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-142.html" />
@@ -658,7 +663,7 @@
         <![CDATA[<p>おはようございます、倉島です。<br />
 現在スイスの田舎の村からお手紙したためております。<br />
 あいかわらず海外在住で申し訳ありません。</p>
-
+-->
 <p>そして…　長らくお待たせいたしました！<br />
 「王様物語」いよいよ明日発売でえーす。<br />
 なにかしらのアクシデントで既に<br />
@@ -704,7 +709,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>９月３日 木曜日！いよいよです！</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/09/post-141.html" />
@@ -725,7 +730,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさまにこの場をかりまして、残暑お見舞い申し上げます。<br />
 キャラクターデザインの皆葉です。</p>
-
+-->
 <p>これを執筆している８月３１日現在、関東地方には台風が近づいています。<br />
 こういった嵐の日は気持ちが昂ぶるものですが、理由はそれだけではありません。</p>
 
@@ -754,7 +759,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>王様物語発売まで、カウント３！</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-140.html" />
@@ -775,7 +780,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>おはこんばんちくわ。<br />
 リードプランナー兼シナリオ兼のんきな池田トムです。</p>
-
+-->
 <p>とうとう後３日ですよ。<br />
 ジャックバウアーは２４時間。エディーマーフィーは４２時間<br />
 がんばってたことですし、７２時間なんて無理すれば不眠で<br />
@@ -816,7 +821,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>王国でワラワラするＲＰＧだよ～ん</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-139.html" />
@@ -837,7 +842,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>おはこんばんちわわ。<br />
 リードプランナー兼シナリオ兼したっぱの池田トムです。</p>
-
+-->
 <p>今日は少し真面目気味に王様物語をアピールをしますので、<br />
 最初に１発ダジャレをお見舞いして全体のバランスを取ります。</p>
 
@@ -913,7 +918,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>プラチナ殿堂記念★夢のコラボ編</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-138.html" />
@@ -935,7 +940,7 @@
         <![CDATA[<p>こんにちは、ＰＲ大臣です。<br />
 プランナー兼相棒の、池田トムです。<br />
 本日はこの二人の夢のような（現実的ではない）コラボにてお届けします。</p>
-
+-->
 <p><br />
 ＰＲ大臣したたる汗をぬぐいながら、<br />
 大臣「池田サン、大変なことになりました。」<br />
@@ -974,7 +979,7 @@
         
     </content>
 </entry>
-
+<!--
 <entry>
     <title>国民に命を吹き込め！</title>
     <link rel="alternate" type="text/html" href="../../../archives/2009/08/post-137.html" />
@@ -995,6 +1000,7 @@
     <content type="html" xml:lang="ja" xml:base="../../../">
         <![CDATA[<p>みなさま、初めまして。<br />
 プログラム担当の田村佑樹と申します。</p>
+-->
 
 <p>王様物語とは私が学生の時から関わらせていただいて、<br />
 かれこれ１年半のお付き合いになりました。</p>
