@@ -3,7 +3,7 @@ An archive of Yoshiro Kimura and Yasuhiro Wada's development blog for the 2009 R
 
 
 # [Index](Index/INDEX.md)
-If you'd prefer to browse the blog through a descriptive list of posts, an index is also available at the link above.
+If you'd prefer to browse the blog from a descriptive list of posts, an index is also available at the link above.
 
 
 # Various pieces of information that may provide clarity on the contents of this blog
@@ -43,7 +43,7 @@ This repository aims to archive the blog in an accessible state, with all of its
 # FAQ
 * When will this get translated?
 
-Unfortunately not soon. It's an immense amount of work to translate 200+ web pages, and considering I don't speak Japanese super well I would only be manually improving a machine translation rather than translating from scratch. For now it's a lot easier to use an in-browser translator, accepting that it'll be less accurate, mix some sentence structure around and mess up more obscure or ambiguous characters.
+Unfortunately not soon. It's an immense amount of work to translate 200+ web pages, and considering I don't speak Japanese super well I would only be manually improving a machine translation rather than translating from scratch. For now it's a lot easier to use an in-browser translator, accepting that it'll be less accurate, mix some sentence structure around and mess up more uncommon or ambiguous characters.
 
 * Why is it telling me a page is missing?
 
