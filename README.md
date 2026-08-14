@@ -15,7 +15,8 @@ Whilst early pages on the blog are written exlusively by Kimura-san and Wada-san
 * Hideo Minaba (皆葉 英夫) - Character Designer
 * Kazuyuki Kurashima (倉島 一幸) - Monster Designer
 * Yasuhiro Wada (和田 康宏) - Executive Producer
-* Nobuhiko Nakamura also appears from 2008 onwards as the blog's "PR Minister" (meaning promotions in general, not just Public Relations).
+
+Nobuhiko Nakamura also appears from 2008 onwards as the blog's "PR Minister" (meaning promotions in general, not just Public Relations).
 
 Development was split across several locations and studios around the world, being:
 
@@ -41,10 +42,13 @@ This repository aims to archive the blog in an accessible state, with all of its
 
 # FAQ
 * When will this get translated?
+
 Unfortunately not soon. It's an immense amount of work to translate 200+ web pages, and considering I don't speak Japanese super well I would only be manually improving a machine translation rather than translating from scratch. For now it's a lot easier to use an in-browser translator, accepting that it'll be less accurate, mix some sentence structure around and mess up more obscure or ambiguous characters.
 
 * Why is it telling me a page is missing?
+
 If it's a direct post link, I simply haven't gotten around to adding that post yet. If it's an index page, it may not be added for a long while as any missing indexes must be manually rebuilt with the posts they should display.
 
 * Why has a page loaded without formatting?
+
 It's likely still pinging the Marvelous page that has its CSS files private. This shouldn't happen but please let me know if I've missed one.
