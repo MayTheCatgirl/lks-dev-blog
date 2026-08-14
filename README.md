@@ -2,6 +2,7 @@
 An archive of Yoshiro Kimura and Yasuhiro Wada's development blog for the 2009 RPG Little King's Story (also known as "Project O").
 
 #Index
+
 If you'd prefer to browse the blog through a descriptive list of posts, an index is available at the link above.
 
 # Various pieces of information that may provide clarity on the contents of this blog
