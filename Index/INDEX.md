@@ -1,1 +1,5 @@
-index
+| Date    	| Name                                                                                	| Title                                                               	| Contents                                                          	|   	|
+|---------	|-------------------------------------------------------------------------------------	|---------------------------------------------------------------------	|-------------------------------------------------------------------	|---	|
+| 2008/03 	| [56](https://maythecatgirl.github.io/lks-dev-blog/archives/2008/03/post-56.html)    	| PR Minister furious!? & Answer the questions in the suggestion box! 	| Kimura on getting tons of letters and opening the Reader's Corner 	|   	|
+| 2008/03 	| [paseri](https://maythecatgirl.github.io/lks-dev-blog/archives/2008/03/paseri.html) 	| A message from Paseri                                               	| Fan mail                                                          	|   	|
+| 2008/03 	| [sein](https://maythecatgirl.github.io/lks-dev-blog/archives/2008/03/sein.html)     	| A letter from Sein                                                  	| Fan mail + Kimura's wallpaper                                     	|   	|
