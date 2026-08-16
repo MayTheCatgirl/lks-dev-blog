@@ -16,7 +16,9 @@ Whilst early pages on the blog are written exlusively by Kimura-san and Wada-san
 * Kazuyuki Kurashima (倉島 一幸) - Monster Designer
 * Yasuhiro Wada (和田 康宏) - Executive Producer
 
-Nobuhiko Nakamura also appears from 2008 onwards as the blog's "PR Minister" (meaning promotions in general, not just Public Relations).
+Nobuhiko Nakamura also appears from 2008 onwards as the blog's "PR Minister". PR is used on the blog to refer to promotions in general, not just Public Relations.
+
+
 
 Development was split across several locations and studios around the world, being:
 
