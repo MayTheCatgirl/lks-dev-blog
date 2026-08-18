@@ -20,7 +20,7 @@ Nobuhiko Nakamura also appears from 2008 onwards as the blog's "PR Minister". PR
 
 
 
-Development was split across several locations and studios around the world, being:
+Development was split across several locations and studios around the world, including:
 
 * Townfactory - Kyushu
 * Cing - Fukuoka (main development)
@@ -36,7 +36,7 @@ Development was split across several locations and studios around the world, bei
 The LKS development blog in its current state is fragmented across three different sources:
 * The Internet Archive, which is missing several dozen pages and uses dead links for image sources
 * The blog's present location on the Marvelous website, which can only be accessed through direct links and is missing all formatting, as the CSS files are private
-* The original development blog, from before it moved to the Marvelous website, which remarkably is still up
+* The original development blog before it moved to the Marvelous website, which remarkably is still up
 
 This is particularly bad for the preservation of Little King Story's development history. Several images from the blog have already been permanently lost, and without intervention more posts and images could disappear at any moment.
 
